@@ -2,18 +2,18 @@
 "Circles" will be a currency created from basic incomes only. In the system outlined in the following, new money is constantly distributed to every account participating in the system. The money in every individual account are uniquely identifiable and only gain in value if the account connects to other accounts and joins groups. This incentivizes every user to limit themselves to one account.
 
 ##Rules
-Everyone can create a new account
-An account will constantly generate an income (1000 units per week
-The rate at which the income is generated will increase by g=2% per year
-A new account starts with the income that will be generated in the next 3 months.
-One month of income is for the account owner - the other two are reserved for people who trust this account, it is called the trustee reward.
-Accounts can trust one another. This will allow both accounts holders to exchange their coins 1:1.
-Trust can be revoked by both parties.
-If an account trusts another account it is credited with half of the remaining trustee reward.
-Arbitrary groups can be created.
-Groups can verify accounts as members.
-Groups can exclude accounts as members.
-All members can convert their private money into group money (1:1 exchange rate). This exchange is irreversible.
+1. Everyone can create a new account
+2. An account will constantly generate an income (x units per week)
+3. The rate at which the income is generated will increase by g=2% per year
+4. A new account starts with the income that will be generated in the next 3 months.
+5. One month of income is for the account owner - the other two are reserved for people who trust this account, it is called the trustee reward.
+6. Accounts can trust one another. This will allow both accounts holders to exchange their coins 1:1.
+7. Trust can be revoked by both parties.
+8. If an account trusts another account it is credited with half of the remaining trustee reward.
+9. Arbitrary groups can be created.
+10. Groups can verify accounts as members.
+11. Groups can exclude accounts as members.
+12. All members can convert their private money into group money (1:1 exchange rate). This exchange is irreversible.
 
 ##Design rationale
 
