@@ -1,4 +1,4 @@
-#Cirlces
+#Circles
 "Circles" will be a currency created from basic incomes only. In the system outlined in the following, new money is constantly distributed to every account participating in the system. The money in every individual account are uniquely identifiable and only gain in value if the account connects to other accounts and joins groups. This incentivizes every user to limit themselves to one account.
 
 ##Rules
